@@ -76,8 +76,6 @@ The audio file must be readable by the legacy Ren'Py version bundled with MAS 0.
 
 ## Copyright and third-party assets
 
-This repository distributes the **Bliss Meadow scripts**, not Microsoft's wallpaper or Windows XP sound assets.
-
 “Bliss”, Windows, and Windows XP are trademarks and/or property of Microsoft. Monika After Story and Doki Doki Literature Club! are separate fan projects; this add-on is unofficial and is not endorsed by their creators.
 
 ## Troubleshooting
