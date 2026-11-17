@@ -10,7 +10,7 @@ init -1 python:
 
             # Windows XP startup sound
             renpy.play(
-                "mod_assets/location/bliss/windows_xp_startup.wav",
+                "mod_assets/location/Bliss/windows_xp_startup.wav",
                 channel="sound"
             )
 
