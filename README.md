@@ -76,7 +76,7 @@ The audio file must be readable by the legacy Ren'Py version bundled with MAS 0.
 
 ## Copyright and third-party assets
 
-This repository distributes the **Bliss Meadow scripts**, not Microsoft's wallpaper or Windows XP sound assets. The expected image and audio files are not included.
+This repository distributes the **Bliss Meadow scripts**, not Microsoft's wallpaper or Windows XP sound assets.
 
 “Bliss”, Windows, and Windows XP are trademarks and/or property of Microsoft. Monika After Story and Doki Doki Literature Club! are separate fan projects; this add-on is unofficial and is not endorsed by their creators.
 
@@ -85,14 +85,14 @@ This repository distributes the **Bliss Meadow scripts**, not Microsoft's wallpa
 ### Bliss Meadow does not appear in the Location menu
 
 - Check that both `.rpy` files are inside `DDLC/game/Submods/Bliss Meadow/`.
-- Check that the `bliss` asset folder is inside `DDLC/game/mod_assets/location/`.
+- Check that the `Bliss` asset folder is inside `DDLC/game/mod_assets/location/`.
 - Make sure the image filenames match the names in the installation instructions.
 - Confirm that MAS is using a compatible version.
 
 ### The sound does not play
 
 - Check that the file is named exactly `windows_xp_startup.wav`.
-- Check that it is located in `game/mod_assets/location/bliss/`.
+- Check that it is located in `game/mod_assets/location/Bliss/`.
 - Make sure the WAV encoding is supported by the Ren'Py version bundled with your MAS installation.
 
 ### Ren'Py reports an error after editing the scripts
