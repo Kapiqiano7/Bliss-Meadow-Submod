@@ -45,7 +45,7 @@ The add-on should also appear in the **Submods** list.
 ```text
 DDLC/
 └── game/
-    ├── submods/
+    ├── Submods/
     │   └── Bliss Meadow/
     │       ├── bliss_meadow.rpy
     │       └── bliss_meadow_info.rpy
@@ -78,15 +78,13 @@ The audio file must be readable by the legacy Ren'Py version bundled with MAS 0.
 
 This repository distributes the **Bliss Meadow scripts**, not Microsoft's wallpaper or Windows XP sound assets. The expected image and audio files are not included.
 
-You must provide your own copies of `bliss.png`, `bliss-n.png`, and `windows_xp_startup.wav`. Make sure you have the right to use and, where applicable, distribute any assets you add. Giving credit to an original creator does not by itself grant permission to redistribute copyrighted material.
-
 “Bliss”, Windows, and Windows XP are trademarks and/or property of Microsoft. Monika After Story and Doki Doki Literature Club! are separate fan projects; this add-on is unofficial and is not endorsed by their creators.
 
 ## Troubleshooting
 
 ### Bliss Meadow does not appear in the Location menu
 
-- Check that both `.rpy` files are inside `DDLC/game/submods/Bliss Meadow/`.
+- Check that both `.rpy` files are inside `DDLC/game/Submods/Bliss Meadow/`.
 - Check that the `bliss` asset folder is inside `DDLC/game/mod_assets/location/`.
 - Make sure the image filenames match the names in the installation instructions.
 - Confirm that MAS is using a compatible version.
