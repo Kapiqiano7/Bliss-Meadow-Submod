@@ -34,7 +34,7 @@ The Location Selector becomes available at **400 affection (ENAMORED)**. You mus
 ## Installation
 
 1. Close Monika After Story.
-2. Copy the `game` folder containing the two `.rpy` files, two `.png` backgrounds files and the `.wav` file into your main DDLC directory.
+2. Copy the `game` folder containing the two `.rpy` files, two `.png` background images and one `.wav` audio file into your main DDLC directory.
 3. Start MAS. Ren'Py should compile the `.rpy` scripts automatically on launch.
 4. Open **Hey, Monika... → Location → Can we go somewhere else?** and select **Bliss Meadow**. 
 
