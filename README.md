@@ -1,4 +1,4 @@
-# Bliss Meadow
+# Bliss Meadow Submod
 
 **A custom location for Monika After Story inspired by the iconic Windows XP “Bliss” wallpaper.**
 
