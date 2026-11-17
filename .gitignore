@@ -221,3 +221,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Ren'Py compiled files
+*.rpyc
+*.rpyb
+*.rpymc
+
+# Ren'Py generated files
+cache/
+saves/
+tmp/
+
+# Ren'Py logs
+log.txt
+errors.txt
+traceback.txt
