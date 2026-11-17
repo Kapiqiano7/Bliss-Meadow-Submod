@@ -5,8 +5,8 @@ init -1 python:
             _old, **kwargs
         )
 
-        # Only react to an actual background change
-        if _old is not None:
+        # Only react to an actual background change, not startup restoration
+        if _old is not None and not kwargs.get("startup", False):
 
             # Windows XP startup sound
             renpy.play(
