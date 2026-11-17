@@ -52,7 +52,7 @@ DDLC/
     │
     └── mod_assets/
         └── location/
-            └── bliss/
+            └── Bliss/
                 ├── bliss.png
                 ├── bliss-n.png
                 └── windows_xp_startup.wav
