@@ -89,13 +89,13 @@ init -1 python:
 
     store.mas_background.loadMBGData()
 
-image submod_bliss_day = "mod_assets/location/bliss/bliss.png"
+image submod_bliss_day = "mod_assets/location/Bliss/bliss.png"
 
-image submod_bliss_night = "mod_assets/location/bliss/bliss-n.png"
+image submod_bliss_night = "mod_assets/location/Bliss/bliss-n.png"
 
 image submod_bliss_sunset = MASFilteredSprite(
     store.mas_sprites.FLT_SUNSET,
-    "mod_assets/location/bliss/bliss.png"
+    "mod_assets/location/Bliss/bliss.png"
 )
 
 label bliss_meadow_first_visit:
